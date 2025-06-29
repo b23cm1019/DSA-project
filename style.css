@@ -125,6 +125,9 @@ button {
     opacity: 0.8;
 }
 
+.hidden {
+    visibility: hidden;
+}
 
 /* Main area for tree construction */
 .tree-area {
